@@ -1,0 +1,94 @@
+    Corn
+    Potatoes
+    Green beans
+    Carrots
+    Tomatoes
+    Bell peppers
+    Onions
+    Lettuce
+    Spinach
+    Broccoli
+    Cauliflower
+    Cucumbers
+    Zucchini
+    Peas
+    Brussels sprouts
+    Apples
+    Bananas
+    Grapes
+    Oranges
+    Strawberries
+    Blueberries
+    Watermelon
+    Peaches
+    Pears
+    Cherries
+    Plums
+    Cantaloupe
+    Raspberries
+    Blackberries
+    Kiwi
+    Popcorn
+    Pretzels
+    Cheese curds
+    Trail mix
+    Beef jerky
+    Potato chips
+    Granola bars
+    Applesauce
+    Yogurt
+    peanuts
+    almonds
+    Crackers
+    Cheese slices
+    Fruit cups
+    marshmallows
+    chocolate
+    graham crackers
+    Rice Krispies
+    Milk
+    Cheese
+    Yogurt
+    steaks
+    burgers
+    Chicken
+    Pork (bacon, ham)
+    Eggs
+    Wheat bread
+    Cornbread
+    Oatmeal
+    Pancake mix
+    Pasta
+    Rice
+    Instant noodles
+    Frozen pizza
+    mac and cheese
+    Peanut butter and jelly sandwiches
+    Canned soups
+    chili
+    cream cheese
+    Chips and salsa
+    Fruit snacks
+    dried fruits
+    String cheese
+    Protein bar
+    Pretzels
+    Coffee
+    tea
+    Energy drinks
+    sports drinks
+    Fruit juices
+    smoothies
+    Soda
+    Instant oatmeal
+    Toaster pastries
+    Frozen waffles
+    Salads
+    Hummus
+    pita bread
+    frozen vegetables
+    Ice cream
+    cookies
+    brownies
+    Pizza rolls
+    mozzarella sticks
